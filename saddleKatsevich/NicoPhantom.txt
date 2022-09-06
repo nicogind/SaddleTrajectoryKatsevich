@@ -1,0 +1,13 @@
+# corps du phantom
+Text "Thorax"
+
+
+Phantom
+{ [ Ellipsoid: x=0 y=0 z=0 dx=60 dy=20 dz=20] formula=H2O rho=1.000}
+{ [ Ellipsoid: x=-20 y=0 z=0 dx=7 dy=7 dz=2.5 ] formula=H2O rho=0.180 }
+{ [ Ellipsoid: x=25 y=10 z=0 dx=15 dy=5 dz=2.5 ] formula=H2O rho=0.400 }
+{ [ Ellipsoid: x=25 y=-10 z=0 dx=15 dy=5 dz=2.5 ] formula=H2O rho=0.400 }
+{ [ Ellipsoid: x=45 y=0 z=0 dx=4 dy=12 dz=2.5 ] formula=H2O rho=0.500 }
+{ [ Ellipsoid: x=-36 y=0 z=0 dx=4 dy=15 dz=2.5 ] formula=H2O rho=0.500 }
+{ [ Ellipsoid: x=-4 y=0 z=0 dx=4 dy=15 dz=2.5 ] formula=H2O rho=0.500 }
+
